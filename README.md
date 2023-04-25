@@ -26,6 +26,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=Typescript)&nbsp;
 ![React.native](https://img.shields.io/badge/-React.native-05122A?style=flat&logo=react)
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter)
+![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
