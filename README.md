@@ -23,7 +23,7 @@
 <a href="https://www.linkedin.com/in/motammad-ahmed-elimam-b71a45177/" target="_blank"><img src="https://img.shields.io/badge/-Motamad%20Alemam-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=Typescript)&nbsp;
 ![React.native](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
